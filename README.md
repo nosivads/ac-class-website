@@ -1,3 +1,3 @@
 # Stephen's homepage
 
-Find my resume [here}(????)]
+Find my resume [here](myresume)
